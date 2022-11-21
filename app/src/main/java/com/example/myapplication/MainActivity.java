@@ -24,12 +24,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mToolbar = findViewById(R.id.main_toolbar);
+        mToolbar = (Toolbar) findViewById(R.id.main_toolbar);
         setSupportActionBar(mToolbar);
-        mDrawer = findViewById(R.id.drawer_layout);
+        mDrawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         mBarDrawerToggle = new ActionBarDrawerToggle(this,mDrawer,mToolbar,R.string.drawer_open,R.string.drawer_close);
         mDrawer.addDrawerListener(mBarDrawerToggle);
-        mNavigationView = findViewById(R.id.nvView);
+        mNavigationView = (NavigationView)findViewById(R.id.nvView);
         setupDrawerContent(mNavigationView);
         FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction()
@@ -69,7 +69,8 @@ public class MainActivity extends AppCompatActivity {
         }
         try{
             fragment = (Fragment) fragmentClass.newInstance();
-        }catch (Exception e){
+        }
+        catch (Exception e){
             Log.e(TAG,e.toString());
         }
 
