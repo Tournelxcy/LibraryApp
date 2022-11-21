@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">书架</string>
+    <string name="app_name">我的书架</string>
     <string name="drawer_open">打开导航抽屉</string>
     <string name="drawer_close">关闭导航抽屉</string>
     <string name="first">第一</string>
@@ -7,4 +7,14 @@
     <string name="third">第三</string>
     <string name="fab_menu_1">添加书目</string>
     <string name="fab_menu_2">批量加入</string>
+    <string name="book_title_label">图书信息</string>
+    <string name="book_cover_image_view_hint">图书覆盖</string>
+    <string name="book_cover_text_view">覆盖</string>
+    <string name="book_title_text_view">标题:</string>
+    <string name="book_author_text_view">作者:</string>
+    <string name="book_translator_text_view">翻译者:</string>
+    <string name="book_publisher_text_view">出版商:</string>
+    <string name="book_pubdate_text_view">出版日期:</string>
+    <string name="book_isbn_text_view">ISBN(国际标准图书编号):</string>
+    <string name="fetcher_response_unmatched">获取图书详细信息失败，请扫描正确的条形码。</string>
 </resources>
