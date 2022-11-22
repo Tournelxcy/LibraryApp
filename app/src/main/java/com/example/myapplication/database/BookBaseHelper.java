@@ -4,7 +4,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
-import com.example.mypersonallibrary.Book;
+//import com.example.mypersonallibrary.Book;
 public class BookBaseHelper extends SQLiteOpenHelper{
     private static int VERSION = 1;
     private static final String DATABASE_NAME = "bookList.db";
