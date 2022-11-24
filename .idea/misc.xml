@@ -8,6 +8,8 @@
         <entry key="..\:/My App/app/src/main/res/drawable/ic_bookshelf.xml" value="0.1205" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_chat.xml" value="0.1205" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_earth.xml" value="0.12" />
+        <entry key="..\:/My App/app/src/main/res/drawable/ic_edit.xml" value="0.4935" />
+        <entry key="..\:/My App/app/src/main/res/drawable/ic_label.xml" value="0.4935" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_lable.xml" value="0.1205" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.117" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_notes.xml" value="0.237" />
@@ -16,9 +18,11 @@
         <entry key="..\:/My App/app/src/main/res/drawable/ic_view_list.xml" value="0.1195" />
         <entry key="..\:/My App/app/src/main/res/drawable/ic_website.xml" value="0.237" />
         <entry key="..\:/My App/app/src/main/res/layout/activity_bookedit.xml" value="0.1078125" />
-        <entry key="..\:/My App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/My App/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/My App/app/src/main/res/layout/booklist_fragment.xml" value="0.16757246376811594" />
         <entry key="..\:/My App/app/src/main/res/layout/fragment_booklist.xml" value="0.109375" />
+        <entry key="..\:/My App/app/src/main/res/layout/log_in.xml" value="0.10833333333333334" />
+        <entry key="..\:/My App/app/src/main/res/layout/main_toolbar.xml" value="0.19519927536231885" />
         <entry key="..\:/My App/app/src/main/res/layout/toolbar.xml" value="0.25" />
         <entry key="..\:/My App/app/src/main/res/layout/toolbar_bookedit.xml" value="0.25364583333333335" />
         <entry key="..\:/My App/app/src/main/res/layout/view_cover_and_info.xml" value="0.25364583333333335" />
