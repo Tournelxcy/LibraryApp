@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MApplication/app/src/main/res/drawable/add_background.xml" value="0.1465" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/activity_book_add.xml" value="0.17346014492753623" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/activity_book_ct.xml" value="0.25364583333333335" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/activity_book_find.xml" value="0.2526041666666667" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/activity_book_search.xml" value="0.25364583333333335" />
         <entry key="..\:/MApplication/app/src/main/res/layout/activity_fountion.xml" value="0.2390625" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/activity_function.xml" value="0.264" />
         <entry key="..\:/MApplication/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/book_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/book_item_linear.xml" value="0.25364583333333335" />
+        <entry key="..\:/MApplication/app/src/main/res/layout/book_item_main.xml" value="0.264" />
       </map>
     </option>
   </component>
